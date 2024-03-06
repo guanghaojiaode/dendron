@@ -2,19 +2,17 @@
 id: gvpykvx5kjjcurk26xpteeu
 title: Learning from Phenix Sfr
 desc: ''
-updated: 1709669700413
+updated: 1709732011199
 created: 1709667707931
 isDir: false
 ---
 The Phénix (SFR) has already shut down. There are many things we can
 learn from it.
 
--   The first thing is the economic feature. We should not forget it.
--   Also, the [[voiding-effects]]
-    needs to be reduced.
--   The [[doppler-effect]] should
-    be increased.
--   The loss of reactivity during the operation should be minimized.
+- The first thing is the economic feature. We should not forget it.
+- Also, the [[voiding-effects]] needs to be reduced.
+- The [[doppler-effect]] should be increased.
+- The loss of reactivity during the operation should be minimized.
 
 > -   Reduction of the sodium void effect. The void coefficient in fast
 >     neutron reactors is positive, which means that reactivity

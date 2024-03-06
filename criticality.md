@@ -2,11 +2,12 @@
 id: fkmdgbxbryi2y4gw9oe8vzp
 title: Criticality
 desc: ''
-updated: 1709668115369
+updated: 1709731212421
 created: 1709667707928
 isDir: false
+bibliography: mylib.bib
 ---
-# What is criticality {#what-is-criticality noter_page="28"}
+# What is criticality
 
 > If we adjust the neutron absorption so that the neutron flux remains
 > constant in time, the reactor is said to be critical. If the neutron
